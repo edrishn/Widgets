@@ -6,7 +6,7 @@ import CardLink from "./CardLink";
 import BuildIcon from "@material-ui/icons/Build";
 import AddAPhotoIcon from "@material-ui/icons/AddAPhoto";
 
-export default function CardsList() {
+export default function CardsList(props) {
   return (
     <Card>
       <List>

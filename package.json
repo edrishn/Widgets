@@ -65,5 +65,7 @@
     "@storybook/preset-create-react-app": "^4.0.0",
     "@storybook/react": "^6.4.10",
     "webpack": "^5.65.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
